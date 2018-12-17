@@ -1,0 +1,2 @@
+db_module=protdigest1.model
+history_dir=$base/protdigest1/sqlobject-history

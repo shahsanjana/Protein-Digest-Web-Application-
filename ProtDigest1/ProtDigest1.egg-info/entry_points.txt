@@ -1,0 +1,4 @@
+[console_scripts]
+start-protdigest1 = protdigest1.command:start
+bootstrap-protdigest1 = protdigest1.command:bootstrap
+

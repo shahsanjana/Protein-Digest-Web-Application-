@@ -1,0 +1,6 @@
+include start-protdigest1.py
+include *.cfg
+include protdigest1/config/*.cfg
+recursive-include protdigest1/templates *.html
+recursive-include protdigest1/templates *.kid
+recursive-include protdigest1/static *
